@@ -1,5 +1,4 @@
 # CSE3150_Lab2
-CSE3150_Lab2
 
 ### 1. Download all github files and open the project within a codespaces terminal.
 
